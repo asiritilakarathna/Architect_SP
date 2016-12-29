@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="a8d70960-d986-4df5-8e21-fe2ca478d459" 
+        solutionId="a8d70960-d986-4df5-8e21-fe2ca478d459" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Architect_SP.Services"
+        sharePointProductVersion="15.0">
+</package>
